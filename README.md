@@ -32,4 +32,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YakovlevaSS)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YakovlevaSSa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YakovlevaSS)](https://github.com/anuraghazra/github-readme-stats)
