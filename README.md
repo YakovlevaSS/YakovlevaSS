@@ -7,7 +7,7 @@
 <h3 align="center">I'm a frontend developer</h3>
 
 ## Languages:
-<img src="icon/javascript.svg" alt="JS" wei>
+<img src="icon/javascript.svg" alt="JS" width="40" height="40">
 <img src="icon/html5.svg" alt="html5">
 <img src="icon/css3.svg" alt="css3">
 <img src="icon/typescript.svg" alt="typescript">
