@@ -26,6 +26,8 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
+<div align="center">[![codewars](https://www.codewars.com/users/YakovlevaSS/badges/small)](https://www.codewars.com/users/YakovlevaSS)</div>
+
 [![codewars](https://www.codewars.com/users/YakovlevaSS/badges/small)](https://www.codewars.com/users/YakovlevaSS) 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
