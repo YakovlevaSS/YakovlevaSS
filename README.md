@@ -26,12 +26,10 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-<div align="center">[![codewars](https://www.codewars.com/users/YakovlevaSS/badges/small)](https://www.codewars.com/users/YakovlevaSS)</div>
-
 [![codewars](https://www.codewars.com/users/YakovlevaSS/badges/small)](https://www.codewars.com/users/YakovlevaSS) 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=YakovlevaSS)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YakovlevaSS)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YakovlevaSSa)](https://github.com/anuraghazra/github-readme-stats)
